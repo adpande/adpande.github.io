@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://adpande.github.io
+title: Awesome
+email: adpande@gmail.com
+author: Abhishek Pande
+description: My awesome new site
+paginate: 3
+google_analytics: 
